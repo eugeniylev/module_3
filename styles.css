@@ -1,0 +1,84 @@
+div.block {
+    width: auto;
+    text-align: center;
+    height: auto;
+    position: relative;
+ 
+ }
+ 
+ li {
+ display: inline-block;
+ text-align: center;
+ font-size: 15px;
+ font-family: 'Playfair Display', serif;
+ color: #7c7c7c;
+ list-style-type: none;
+ margin: 80px;
+ }
+ 
+ li.hover {
+    color: #ffe;
+    font-size: 14px;
+    color: #03a9f4;
+    list-style-type: none;
+ }
+ 
+ .wrapper {
+ display: inline-block;
+ width: 400px;
+ height: 500px;
+ font-size: 15px;
+ font-family: 'Playfair Display', serif;
+ color: #7c7c7c;
+ margin: 50px;
+ 
+ }
+ 
+ h2 {
+ font-family: 'Playfair Display', serif;
+ font-size: 20px;
+ text-align: left;
+ color: #626262;
+ margin-bottom: 30px
+ 
+ }
+ 
+ article{
+ width: 1200px;
+ font-family: 'Playfair Display', serif;
+ margin: auto;
+ 
+ }
+ 
+ .text {
+ font-size: 15px;
+ text-transform: uppercase;
+ color: #b4ad9e;
+ text-align: left;
+ margin-top: 30px;
+ margin-bottom: 30px;
+ 
+ 
+ }
+ 
+ .control {
+ display: block;
+ margin:  auto 0 auto;
+ background: transparent;
+ border-width: 1px;
+ border-color: #626262;
+ border-color: solid;
+ width: 160px;
+ height: 60px;
+ font-size: 20px;
+ font-family: "Playfair Display";
+ color: #626262;
+ 
+ 
+ }
+ 
+ .last {
+ margin-top: 60px;
+ margin-left: 550px;
+ 
+ }
